@@ -2,10 +2,6 @@
 
 --------
 
-Due Date: Jan 20th
-
-
---------
 
 In this assignment you have to write small blocks of code to answer and explain the questions in blow.
 
