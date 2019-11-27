@@ -3,8 +3,6 @@
 
 Objective: In this excercise you will train a random forest on Titanic Data. 
 
-Due Date: January 14th
-
 Dataset: You can download data from [kaggle website](https://www.kaggle.com/c/titanic)
 
 
